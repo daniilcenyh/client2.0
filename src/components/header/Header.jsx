@@ -17,7 +17,7 @@ export default function Header() {
           <Link to="/"><h3>ВОЛЬТ</h3></Link>
         </section>
         <section id="content_block">
-          <Link to="*"><h3>о нас</h3></Link>
+          <Link to="/about"><h3>о нас</h3></Link>
         </section>
         <section id="icons_block">
           <div>

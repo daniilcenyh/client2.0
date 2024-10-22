@@ -29,6 +29,13 @@ div header #logo_block a h3 {
   -webkit-transition-duration: 0.3s;
           transition-duration: 0.3s;
 }
+div header #content_block a h3 {
+  font-size: calc(20px + 5 * (100vw - 320px) / 1600);
+  font-weight: 700;
+  color: black;
+  -webkit-transition-duration: 0.3s;
+          transition-duration: 0.3s;
+}
 div header #logo_block a h3:hover {
   -webkit-transform: scale(1.1);
           transform: scale(1.1);

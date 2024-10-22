@@ -1,0 +1,33 @@
+div .about__container {
+    min-height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  margin: 0 auto;
+  max-width: 1135px;
+}
+
+div h1 {
+    font-size: 30px;
+    font-weight: 800;
+    margin: 3rem 0;
+}
+
+div .about__block {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    font-size: 1.5rem;
+    /* margin: 1rem 0; */
+    margin-bottom: 3rem;
+}
+
+div .content__block {
+    background-color: rgb(236, 220, 150,0.3);
+    padding: 2rem;
+    border-radius: 1rem;
+}

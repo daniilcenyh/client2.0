@@ -11,6 +11,7 @@ import Busket from './pages/busket/Busket';
 import Favorited from './pages/favorited/Favorited';
 import Error from './pages/error/Error';
 import Payment from './pages/payment/Payment';
+import About from './pages/about/About'
 // import ProductPage from './pages/productpage/ProductPage';
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
           <Route path='/busket' element={<Busket/>} />
           <Route path='/favorite' element={<Favorited/>} />
           <Route path='/payment' element={<Payment/>} />
+          <Route path='/about' element={<About/>} />
           <Route path='*' element={<Error/>} /> 
         </Routes>
         <Footer/>
