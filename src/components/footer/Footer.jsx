@@ -32,9 +32,9 @@ export default function Footer() {
       </section>
       <section id="footer__block">
         <div className="social__block">
-          <a href="https://vk.com/bolshoi_nik_bolshie_bukvi?from=search"><SlSocialVkontakte fontSize={35} color="black"/></a>
-          <a href="https://t.me/bartgothopuy"><FaTelegram fontSize={35} color="black"/></a>
-          <a href="https://api.whatsapp.com/send?phone=79601088814"><FaWhatsapp fontSize={35} color="black"/></a>
+          {/* <a href="https://vk.com/bolshoi_nik_bolshie_bukvi?from=search"><SlSocialVkontakte fontSize={35} color="black"/></a> */}
+          <a href="https://t.me/v0lt136"><FaTelegram fontSize={35} color="black"/></a>
+          <a href="https://api.whatsapp.com/send?phone=79102820110"><FaWhatsapp fontSize={35} color="black"/></a>
         </div>
       </section>
     </footer>
