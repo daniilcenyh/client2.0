@@ -476,7 +476,7 @@ const data = [
                 img: "https://avatars.mds.yandex.net/i?id=7574681fc7ece206e90caef5e663e576d6a786fa-4902787-images-thumbs&n=13",
                 title: "WS2812B 8x8",
                 rate: 4.9,
-                price: 402,
+                price: 427.9,
                 category: "Дисплей",
                 discription: "WS2811 SMD5050 RGB светодиодный, каждый светодиодный встроенный (встроенный) IC WS2811, поэтому каждый светодиодный эффект lignting можно контролировать, каждый rgb светодиодный является цифровым адресуемым."
             },
@@ -491,10 +491,10 @@ const data = [
             },
         {
         id: 54,
-                img: "https://avatars.mds.yandex.net/i?id=2eda5226a3ef84b04e07fc9c6f4cc672_l-4397183-images-thumbs&n=13",
+                img: "https://mcustore.ru/img/site/modul-svyazi-nrf24l01_s4.jpg",
                 title: "NRF24L01",
                 rate: 4.7,
-                price: 110,
+                price: 57.55,
                 category: "Модуль",
                 discription: "Радиомодуль приемник/передатчик Напряжение питания: 1,9 - 3. Скорость передачи данных до 2 МБи Рабочая частота 2.4 ГГц"
             },
@@ -531,7 +531,7 @@ const data = [
                 img: "https://avatars.mds.yandex.net/i?id=eb50fea81b44509e2d4a6e1722124e88_l-4054754-images-thumbs&n=13",
                 title: "Arduino совместимый Uno R3",
                 rate: 5.0,
-                price: 400,
+                price: 440,
                 category: "Модуль",
                 discription: "ЭЛЕКТРОННЫЕ УСТРОЙСТВА\Электронные модули (ARDUINO) "
             },
